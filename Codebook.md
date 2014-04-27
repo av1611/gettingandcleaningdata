@@ -1,20 +1,20 @@
-##Getting And Cleaning Data Project
-#
-#
-#This repository contains the R code and Codebook.md as part of the Coursera Getting and Cleaning Data in R #Course.
-#
-#
+Getting And Cleaning Data Project
+=====================================================================================
+
+This repository contains the R code and Codebook.md as part of the Coursera Getting and Cleaning Data in R Course.
+
+
 ##The Description Of The Project
-#
-#The purpose of this project is to demonstrate the skills of collecting and cleaning a 
-#data set. The goal is to prepare tidy data that can be used for a further analysis.
-#
-#The data linked to from the course website represent data collected from the accelerometers
-#from the Samsung Galaxy S smartphone. A full description is available at the site where the 
-#data was obtained under: 
-#http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-#
-#
+
+The purpose of this project is to demonstrate the skills of collecting and cleaning a 
+data set. The goal is to prepare tidy data that can be used for a further analysis.
+
+The data linked to from the course website represent data collected from the accelerometers
+from the Samsung Galaxy S smartphone. A full description is available at the site where the 
+data was obtained under: 
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
+
 ##Data Description
 #The data comes from the Human Activity Recognition Using Smartphones Experiment
 #A group of 30 volunteers within an age bracket of 19-48 years participated in this experiement 
