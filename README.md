@@ -3,7 +3,7 @@ ReadMe.md
 
 This repository contains the R code and Codebook.md as part of the Coursera Getting and Cleaning Data in R Course.
 
-run-analysis.R is the main script that performs all the data cleaning and converting
+run_analysis.R is the main script that performs all the data cleaning and converting
 
 CodeBook.md contains the variables, the data explanation, and description of all transformations that has been done on data.
 
