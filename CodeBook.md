@@ -55,7 +55,7 @@ e.g. Jerk is derived from Acceleration and Angular Velocity
 kurtosis etc.] for each of the feature vector pattern: '-XYZ' is used to denote 3-axial 
 signals in the X, Y and Z directions.
 - A listing of the statistical variables created is described under the file "FeatureInfo"
-- A complete list of the 561 variables is available in the file "Features.txt"
+- A complete list of the 561 variables is available in the file "Features.txt".
 
  As stated in the assumptions above, as part of the project, only mean() & stddev() estimates
  are included in the analysis.
